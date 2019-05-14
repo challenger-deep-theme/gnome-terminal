@@ -1,8 +1,6 @@
 [![Challenger Deep](https://challenger-deep-theme.github.io/images/logo.png)](https://challenger-deep-theme.github.io/)
 ## [Challenger Deep Theme](https://challenger-deep-theme.github.io/) for [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/).
 
-Original color scheme by [MaxSt](https://github.com/MaxSt) ported to [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/).
-
 ![colortest](./screenshots/colors.png)
 
 ![GNOME Terminal Color Profile Panel](./screenshots/profile.png)
@@ -39,3 +37,7 @@ This will overwrite any previously defined color schemes in the terminal profile
 ## Install manually
 
 Alternatively, this repo can be cloned and run with the `install.sh` script.
+
+---
+
+This theme was ported to [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/) by [Jaxson Van Doorn](https://github.com/woofers)
