@@ -1,0 +1,14 @@
+[profiles:/:ID]
+foreground-color='rgb(203,227,231)'
+palette=['rgb(16,14,35)', 'rgb(255,128,128)', 'rgb(149,255,164)', 'rgb(255,233,170)', 'rgb(145,221,255)', 'rgb(201,145,225)', 'rgb(170,255,228)', 'rgb(203,227,231)', 'rgb(86,85,117)', 'rgb(255,84,88)', 'rgb(98,209,150)', 'rgb(255,179,120)', 'rgb(101,178,255)', 'rgb(144,108,255)', 'rgb(99,242,241)', 'rgb(166,179,204)']
+cursor-background-color='rgb(203,227,231)'
+cursor-colors-set=true
+highlight-colors-set=true
+use-theme-colors=false
+cursor-foreground-color='rgb(27,24,44)'
+allow-bold=false
+bold-color-same-as-fg=false
+bold-color='rgb(203,227,231)'
+background-color='rgb(27,24,44)'
+highlight-background-color='rgb(144,108,255)'
+highlight-foreground-color='rgb(203,227,231)'
