@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 
+# Execute script relative to folder where color pallet exists
+DIR=${BASH_SOURCE%/*}/
+
 # Color pallet config file
-FILE=challenger-deep.dconf
+FILE=$DIR"challenger-deep.dconf"
 
 # dconf path for gnome-terminal
 TERM_CONFIG="/org/gnome/terminal/legacy/"
